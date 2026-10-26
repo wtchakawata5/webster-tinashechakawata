@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Sustainability is not one thing: a Q-methodology study of stakeholder perspectives in sporting goods trade"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: [https://link.springer.com/article/10.1007/s11135-026-03097-y]
+excerpt: 'Sustainability permeates all levels of the sports sector, including the sporting goods industry. Various tools, such as international trade, continue to be linked to contributing to the 2030 Agenda for Sustainable Development, with previous studies highlighting the impact of trade on sustainability across three dimensions: Economic, Environmental and Social. Against this backdrop, this study explored and analysed the different perspectives sporting goods industry stakeholders hold regarding sustainability in sporting goods trade. 23 participants from five sporting goods industry stakeholder groups were chosen using purposive sampling and analysed using Q-methodology empowered by the Sustainable Development–Trade Framework. Five factors emerged as central in grouping of stakeholders’ sustainability outlooks about sporting goods trade: “community conscious globalist outlook”, “environmentally conscious outlook”, “holistic sustainable governance outlook”, “ethically bounded governance outlook”, and “pragmatist outlook”. The factors generally tended to afford more consideration to the environmental sustainability dimension, along with the role of trade governance mechanisms in steering sustainable sporting goods trade. Conversely, economic and social sustainability aspects of sporting goods trade were downplayed across four of the five factors. The study corroborates findings from previous research about sporting goods trade, sporting goods sustainability or related to sustainability among sport organisations. The paper is among the first to examine sustainability in relation to sporting goods trade among its diverse industry stakeholders. Understanding sustainability from their perspective, through the novel prism of Q-methodology, helps in articulating the value of trade in the context of sustainability, which can inform policy design aimed at promoting sustainable sporting goods trade.'
+date: 2026-09-18
+venue: 'Quality & Quantity'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: ' https://doi.org/10.1007/s11135-026-03097-y'
+citation: 'Chakawata, W.T. Sustainability is not one thing: a Q-methodology study of stakeholder perspectives in sporting goods trade. Qual Quant (2026). https://doi.org/10.1007/s11135-026-03097-y.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
